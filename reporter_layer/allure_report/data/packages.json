@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_user_login",
+    "children" : [ {
+      "name" : "1、客服登录成功",
+      "uid" : "9b64be4eda581364",
+      "parentUid" : "4fd9dc1739d3e77438d8c02eeb0aabcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695994718850,
+        "stop" : 1695994718862,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'1、客服登录成功'", "'login-pass'", "'admin'", "'admin'", "'0000'" ]
+    }, {
+      "name" : "2、客服不输入账号",
+      "uid" : "449984c3796ad4b6",
+      "parentUid" : "4fd9dc1739d3e77438d8c02eeb0aabcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695994718866,
+        "stop" : 1695994718870,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'2、客服不输入账号'", "'login-fail'", "'admin'", "''", "'0000'" ]
+    }, {
+      "name" : "3、客服不输入密码",
+      "uid" : "b6a0a8b56bfaf7ee",
+      "parentUid" : "4fd9dc1739d3e77438d8c02eeb0aabcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695994718875,
+        "stop" : 1695994718879,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'3、客服不输入密码'", "'login-fail'", "''", "'admin'", "'0000'" ]
+    }, {
+      "name" : "4、客服不输入验证码",
+      "uid" : "fe4ce26a89ab1ecf",
+      "parentUid" : "4fd9dc1739d3e77438d8c02eeb0aabcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695994718883,
+        "stop" : 1695994718886,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'4、客服不输入验证码'", "'vcode-error'", "'admin'", "'admin'", "'000'" ]
+    } ],
+    "uid" : "4fd9dc1739d3e77438d8c02eeb0aabcf"
+  } ]
+}

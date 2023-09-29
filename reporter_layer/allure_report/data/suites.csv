@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 29 21:38:38 CST 2023","Fri Sep 29 21:38:38 CST 2023","4","","test_user_login","Test_UserLogin","","","2、客服不输入账号",""
+"passed","Fri Sep 29 21:38:38 CST 2023","Fri Sep 29 21:38:38 CST 2023","12","","test_user_login","Test_UserLogin","","","1、客服登录成功",""
+"passed","Fri Sep 29 21:38:38 CST 2023","Fri Sep 29 21:38:38 CST 2023","4","","test_user_login","Test_UserLogin","","","3、客服不输入密码",""
+"passed","Fri Sep 29 21:38:38 CST 2023","Fri Sep 29 21:38:38 CST 2023","3","","test_user_login","Test_UserLogin","","","4、客服不输入验证码",""

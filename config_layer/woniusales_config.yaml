@@ -1,0 +1,5 @@
+WN:
+  host: http://localhost:8080/woniusales
+  account: admin
+  pwd: admin
+  ver_code: 0000

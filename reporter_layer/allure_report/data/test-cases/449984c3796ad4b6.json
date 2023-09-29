@@ -1,0 +1,89 @@
+{
+  "uid" : "449984c3796ad4b6",
+  "name" : "2、客服不输入账号",
+  "fullName" : "test_user_login.Test_UserLogin#test_userlogin",
+  "historyId" : "9f9984e4e0c9864a295ab6d257533112",
+  "time" : {
+    "start" : 1695994718866,
+    "stop" : 1695994718870,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1695994718774,
+      "stop" : 1695994718850,
+      "duration" : 76
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "客服登录"
+  }, {
+    "name" : "feature",
+    "value" : "客服登录"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_UserLogin"
+  }, {
+    "name" : "host",
+    "value" : "LYP"
+  }, {
+    "name" : "thread",
+    "value" : "21712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_user_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casename",
+    "value" : "'2、客服不输入账号'"
+  }, {
+    "name" : "expect_retMsg",
+    "value" : "'login-fail'"
+  }, {
+    "name" : "password",
+    "value" : "'admin'"
+  }, {
+    "name" : "username",
+    "value" : "''"
+  }, {
+    "name" : "verifycode",
+    "value" : "'0000'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "449984c3796ad4b6.json",
+  "parameterValues" : [ "'2、客服不输入账号'", "'login-fail'", "'admin'", "''", "'0000'" ]
+}

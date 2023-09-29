@@ -1,0 +1,41 @@
+[ {
+  "uid" : "fe4ce26a89ab1ecf",
+  "name" : "4、客服不输入验证码",
+  "time" : {
+    "start" : 1695994718883,
+    "stop" : 1695994718886,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b64be4eda581364",
+  "name" : "1、客服登录成功",
+  "time" : {
+    "start" : 1695994718850,
+    "stop" : 1695994718862,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "449984c3796ad4b6",
+  "name" : "2、客服不输入账号",
+  "time" : {
+    "start" : 1695994718866,
+    "stop" : 1695994718870,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6a0a8b56bfaf7ee",
+  "name" : "3、客服不输入密码",
+  "time" : {
+    "start" : 1695994718875,
+    "stop" : 1695994718879,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

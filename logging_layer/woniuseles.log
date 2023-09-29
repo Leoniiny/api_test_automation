@@ -1,0 +1,528 @@
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:37:18    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:37:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:37:18    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:45:04    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:45:04    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:45:04    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:45:04     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:45:04    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:46:06    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:46:06    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:46:06    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:46:06     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:46:06    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:49:19    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:49:19    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:49:19    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:49:19     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:49:19    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:53:21    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:53:21    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:53:21    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:53:21     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:53:21    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:54:46    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:54:46    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:54:46    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:54:46     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:54:46    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:56:17    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:56:17    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:56:17    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:56:17     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:56:17    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:57:48    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:57:48    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:57:48    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:57:48     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:57:48    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:00    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:00    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:00    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:58:00     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:00    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:18    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:18    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:18    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 20:58:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 20:58:18    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:08:07    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:08:07    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:08:07    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:08:07     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:08:07    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:10:18    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:10:18    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:10:18    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:10:18     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:10:18    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:13:29    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:13:29    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:13:29    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:13:29     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:13:29    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:30:25    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:30:25    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:30:25    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:30:25     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:30:25    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:35:12    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:35:12    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:35:12    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:35:12     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:35:12    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:36:43    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:36:43    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:36:43    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:36:43     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:36:43    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应结果是: login-pass
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:38:38    DEBUG result_assertion.py [:MainThread] 1、客服登录成功号，测试通过
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:38:38    DEBUG result_assertion.py [:MainThread] 2、客服不输入账号号，测试通过
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应结果是: login-fail
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:38:38    DEBUG result_assertion.py [:MainThread] 3、客服不输入密码号，测试通过
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 接口请求的url是: http://localhost:8080/woniusales/user/login
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应状态码是: 200
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] 响应结果是: vcode-error
+2023-09-29 21:38:38     INFO api_common.py [:MainThread] #######################################################################
+
+
+2023-09-29 21:38:38    DEBUG result_assertion.py [:MainThread] 4、客服不输入验证码号，测试通过
