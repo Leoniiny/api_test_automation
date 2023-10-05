@@ -33,7 +33,7 @@ if __name__ == '__main__':
     print(UTIL_PATH)
     print(COMMON_PATH)
     print(BUSINESS_PATH)
-    print(CONFIG_PATH)
+    print(f"CONFIG_PATH >>>{CONFIG_PATH}")
     print(DATA_PATH)
     print(CASE_PATH)
     print(OPRATION_PATH)
